@@ -15,6 +15,7 @@ except:
     os.system("pip install langchain-ollama")
     os.system("pip install speechrecognition")
     os.system("pip install pyttsx3")
+    os.system("pip install pyaudio")
 
 model = OllamaLLM(model="deepseek-r1:8b")
 
