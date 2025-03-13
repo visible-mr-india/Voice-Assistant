@@ -12,9 +12,9 @@ Installation- Alright, dumbass. Here’s how you install and use this sarcastic,
 
 Step 1: Download the Files Get the full project folder from GitHub. Extract the ZIP file if needed. (Yes, even this basic step is necessary for some of you.)
 
-Step 2: Create a Virtual Environment (Optional)
+Step 2: Create a Virtual Environment
 
-Step 3: Run the Damn Thing Double Click and Run The File
+Step 3: Run the Damn Thing
 
 Step 4: Enjoy Getting Roasted by Your Own AI Ask it dumb questions. Let it tell you how much of a disappointment you are (with love, of course).
 
