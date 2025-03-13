@@ -17,4 +17,5 @@ Step 2: Run the Damn Thing Double Click and Run The File
 Step 4: Enjoy Getting Roasted by Your Own AI Ask it dumb questions. Let it tell you how much of a disappointment you are (with love, of course).
 
 Uninstalling (If You Can’t Handle the Heat)
+
 If you’re too weak for this AI’s attitude, simply delete the folder. That’s it. But deep down, you’ll miss it.
